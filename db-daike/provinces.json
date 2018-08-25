@@ -1,0 +1,170 @@
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6350"), 
+    "id" : 1.0, 
+    "name" : "北京"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6351"), 
+    "id" : 2.0, 
+    "name" : "天津"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6352"), 
+    "id" : 3.0, 
+    "name" : "河北"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6353"), 
+    "id" : 4.0, 
+    "name" : "山西"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6354"), 
+    "id" : 5.0, 
+    "name" : "内蒙古"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6355"), 
+    "id" : 6.0, 
+    "name" : "辽宁"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6356"), 
+    "id" : 7.0, 
+    "name" : "吉林"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6357"), 
+    "id" : 8.0, 
+    "name" : "黑龙江"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6358"), 
+    "id" : 9.0, 
+    "name" : "上海"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6359"), 
+    "id" : 10.0, 
+    "name" : "江苏"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d635a"), 
+    "id" : 11.0, 
+    "name" : "浙江"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d635b"), 
+    "id" : 12.0, 
+    "name" : "安徽"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d635c"), 
+    "id" : 13.0, 
+    "name" : "福建"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d635d"), 
+    "id" : 14.0, 
+    "name" : "江西"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d635e"), 
+    "id" : 15.0, 
+    "name" : "山东"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d635f"), 
+    "id" : 16.0, 
+    "name" : "河南"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6360"), 
+    "id" : 17.0, 
+    "name" : "湖北"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6361"), 
+    "id" : 18.0, 
+    "name" : "湖南"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6362"), 
+    "id" : 19.0, 
+    "name" : "广东"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6363"), 
+    "id" : 20.0, 
+    "name" : "广西"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6364"), 
+    "id" : 21.0, 
+    "name" : "海南"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6365"), 
+    "id" : 22.0, 
+    "name" : "重庆"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6366"), 
+    "id" : 23.0, 
+    "name" : "四川"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6367"), 
+    "id" : 24.0, 
+    "name" : "贵州"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6368"), 
+    "id" : 25.0, 
+    "name" : "云南"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6369"), 
+    "id" : 26.0, 
+    "name" : "西藏"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d636a"), 
+    "id" : 27.0, 
+    "name" : "陕西"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d636b"), 
+    "id" : 28.0, 
+    "name" : "甘肃"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d636c"), 
+    "id" : 29.0, 
+    "name" : "青海"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d636d"), 
+    "id" : 30.0, 
+    "name" : "宁夏"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d636e"), 
+    "id" : 31.0, 
+    "name" : "新疆"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d636f"), 
+    "id" : 32.0, 
+    "name" : "香港"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6370"), 
+    "id" : 33.0, 
+    "name" : "澳门"
+}
+{ 
+    "_id" : ObjectId("5b76354bd5c586b1d02d6371"), 
+    "id" : 34.0, 
+    "name" : "台湾"
+}

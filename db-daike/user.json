@@ -1,0 +1,40 @@
+{ 
+    "_id" : ObjectId("5b738b6f0f8e560fbca336f8"), 
+    "userId" : "49a04710-9f9e-11e8-9e16-23a30416dc33", 
+    "userName" : "旷祥军", 
+    "account" : "admin", 
+    "email" : "kuangxj@7moor.com", 
+    "phone" : "13350584075", 
+    "headerImg" : "http://thirdwx.qlogo.cn/mmopen/vi_32/ib0Mko088QClzW4F0IW5Kr9G7rK2ymgoU8xa8sAibXBiblPfss4xVV9YIZQQofN6J0iciay1icf23wCrLNsCibhFUnM4Q/132", 
+    "studentId" : "9527", 
+    "school" : "西科大", 
+    "schoolId" : "3505", 
+    "provinceId" : NumberInt(23), 
+    "major" : "GIS", 
+    "college" : "School of Environment and Resource", 
+    "collections" : [
+        "1348eef0-a5e9-11e8-b6bc-1b1b099506a7"
+    ], 
+    "wechat" : "test_wx"
+}
+{ 
+    "_id" : ObjectId("5b798b7dabfe4c3288d1b44e"), 
+    "userId" : "da45d540-a3c3-11e8-9c78-ff494b849cdc", 
+    "account" : "frank", 
+    "__v" : NumberInt(0), 
+    "provinceId" : NumberInt(23), 
+    "school" : "四川大学", 
+    "schoolId" : "3500", 
+    "college" : "经管", 
+    "email" : "kuangxj@7moor.com", 
+    "major" : "市场传销", 
+    "phone" : "13350584075", 
+    "headerImg" : "https://upload.jianshu.io/users/upload_avatars/2669310/3cccab885b2e?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240", 
+    "qq" : "test_qq", 
+    "studentId" : "11111", 
+    "userName" : "frank", 
+    "wechat" : "test_wx", 
+    "collections" : [
+
+    ]
+}
